@@ -1,0 +1,3 @@
+interface Mute {
+    void mute();
+}
